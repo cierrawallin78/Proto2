@@ -13,7 +13,7 @@ In order to use the RC car app:
   In order to use app, email cierrawallin78@gmail.com
   
   App will then be shared via GoogleDrive 
-    (apk files are unable to be sent in email and therefore cannot be remotely downloaded due to security conecerns). 
+    (apk files are unable to be sent in email and therefore cannot be remotely downloaded due to security concerns). 
     
     To open file, click on the apk file from your Android device. (File is 3.4 MB). Once app is successfully installed, click open to open file. 
     Make sure to turn on Bluetooth settings in phone settings and click on HC-06 module as chosen Bluetooth device

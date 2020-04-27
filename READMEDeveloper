@@ -1,0 +1,8 @@
+For developers:
+
+Code for app is in Java, but could further be developed in JavaScript or Kotlin. 
+Code is only accessible for Android phones, but later should be developed for Apple devices as well.
+Also area of growth is to publish app to Android store for ease of access for users
+Only external classes used were in Java.utils.* 
+
+
